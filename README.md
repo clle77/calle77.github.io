@@ -1,3 +1,3 @@
-# Il mio portfolio
+# My portfolio
 
-Breve descrizione di chi sono e di cosa faccio :)
+A short description of who I am and what I do :)
